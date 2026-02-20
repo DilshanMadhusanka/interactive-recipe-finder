@@ -63,7 +63,7 @@ This project uses the free public API:
 
 **TheMealDB API**  
 
-https://www.themealdb.com/api.php
+   https://www.themealdb.com/api.php
 
 Endpoints used:
 
@@ -92,7 +92,7 @@ Endpoints used:
 ## ⚙️ Setup & Installation
 
 Follow these steps to run the project locally:
-
+ 
 ### 1️⃣ Clone the repository
 
 ```bash
@@ -120,12 +120,12 @@ npm run dev
 ```      
 ### 5️⃣ Open in browser
 
-Open [http://localhost:5173](http://localhost:5173) to view the app.
+Open  [http://localhost:5173](http://localhost:5173)  to view the app.
 
 
 ---
 
-## 📸 Application Screenshots
+##  Application UI
 
 ### 🏠 Home Page
 ![Home Page](./screenshots/home.png)
