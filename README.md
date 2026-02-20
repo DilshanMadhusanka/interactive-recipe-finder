@@ -1,4 +1,4 @@
-# 🍽️ Interactive Recipe Finder
+# Interactive Recipe Finder
 
 A modern and responsive React application that allows users to search for recipes using a public API, view detailed recipe information, and manage a list of favorite recipes.
 
@@ -8,7 +8,7 @@ Built using **React (Vite)** with clean architecture and best coding practices.
 
 ## 🚀 Live Demo
   
-Example: https://interactive-recipe-finder.vercel.app
+Click : https://find-best-recipe.netlify.app/
 
 ---
 
@@ -62,6 +62,7 @@ Example: https://interactive-recipe-finder.vercel.app
 This project uses the free public API:
 
 **TheMealDB API**  
+
 https://www.themealdb.com/api.php
 
 Endpoints used:
@@ -95,7 +96,7 @@ Follow these steps to run the project locally:
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/your-username/interactive-recipe-finder.git
+git clone https://github.com/DilshanMadhusanka/interactive-recipe-finder.git
 
 ```
 
