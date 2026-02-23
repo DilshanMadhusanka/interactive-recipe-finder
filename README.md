@@ -52,7 +52,7 @@ Click : https://find-best-recipe.netlify.app/
 - **JavaScript (ES6+)**
 - **React Router**
 - **Context API**
-- **CSS**
+- **Tailwind CSS**
 - **TheMealDB Public API**
 
 ---
@@ -120,7 +120,7 @@ npm run dev
 ```      
 ### 5️⃣ Open in browser
 
-Open  [http://localhost:5173](http://localhost:5173)  to view the app.
+Open  [http://localhost:3000](http://localhost:3000)  to view the app.
 
 
 ---
